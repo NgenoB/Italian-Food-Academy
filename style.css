@@ -22,3 +22,12 @@ body{
 .about-info{
     padding: 5%;
 }
+#nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+#nav a{
+    text-decoration: none;
+    color: red;
+}
